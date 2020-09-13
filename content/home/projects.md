@@ -26,12 +26,20 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "EO"
+  tag = ".EO"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Groundwater"
+  tag = ".groundwater"
+
+[[filter]]
+  name = "Geophysics"
+  tag = ".geophysics"
+
+[[filter]]
+  name = "InSAR"
+  tag = ".InSAR"
 
 +++
 
